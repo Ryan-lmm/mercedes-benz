@@ -1,6 +1,6 @@
-import { logo, car, menu, close } from '../assets'
+import { logo, menu, close } from '../assets'
 import { useState } from 'react';
-import { navLinks, button } from '../constants';
+import { navLinks } from '../constants';
 import Button from './Button';
 import ButtonM from './ButtonM';
 
